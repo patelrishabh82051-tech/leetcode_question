@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/patelrishabh82051-tech/leetcode_question/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/patelrishabh82051-tech/leetcode_question/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/patelrishabh82051-tech/leetcode_question/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/patelrishabh82051-tech/leetcode_question/tree/master/0066-plus-one) |
 ## Hash Table
@@ -26,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/patelrishabh82051-tech/leetcode_question/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/patelrishabh82051-tech/leetcode_question/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/patelrishabh82051-tech/leetcode_question/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
