@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/patelrishabh82051-tech/leetcode_question/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/patelrishabh82051-tech/leetcode_question/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/patelrishabh82051-tech/leetcode_question/tree/master/0066-plus-one) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/patelrishabh82051-tech/leetcode_question/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/patelrishabh82051-tech/leetcode_question/tree/master/0011-container-with-most-water) |
+## Binary Search
+|  |
+| ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/patelrishabh82051-tech/leetcode_question/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
