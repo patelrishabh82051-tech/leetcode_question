@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/patelrishabh82051-tech/leetcode_question/tree/master/0066-plus-one) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/patelrishabh82051-tech/leetcode_question/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/patelrishabh82051-tech/leetcode_question/tree/master/0169-majority-element) |
+| [0922-sort-array-by-parity-ii](https://github.com/patelrishabh82051-tech/leetcode_question/tree/master/0922-sort-array-by-parity-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/patelrishabh82051-tech/leetcode_question/tree/master/0011-container-with-most-water) |
+| [0922-sort-array-by-parity-ii](https://github.com/patelrishabh82051-tech/leetcode_question/tree/master/0922-sort-array-by-parity-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/patelrishabh82051-tech/leetcode_question/tree/master/0169-majority-element) |
+| [0922-sort-array-by-parity-ii](https://github.com/patelrishabh82051-tech/leetcode_question/tree/master/0922-sort-array-by-parity-ii) |
 ## Counting
 |  |
 | ------- |
