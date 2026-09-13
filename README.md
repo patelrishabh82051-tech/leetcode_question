@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/patelrishabh82051-tech/leetcode_question/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/patelrishabh82051-tech/leetcode_question/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/patelrishabh82051-tech/leetcode_question/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/patelrishabh82051-tech/leetcode_question/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/patelrishabh82051-tech/leetcode_question/tree/master/0066-plus-one) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/patelrishabh82051-tech/leetcode_question/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/patelrishabh82051-tech/leetcode_question/tree/master/0169-majority-element) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/patelrishabh82051-tech/leetcode_question/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/patelrishabh82051-tech/leetcode_question/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/patelrishabh82051-tech/leetcode_question/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/patelrishabh82051-tech/leetcode_question/tree/master/0392-is-subsequence) |
 ## Two Pointers
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/patelrishabh82051-tech/leetcode_question/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/patelrishabh82051-tech/leetcode_question/tree/master/0055-jump-game) |
 ## Binary Search
 |  |
 | ------- |
