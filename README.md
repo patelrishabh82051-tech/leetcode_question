@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/patelrishabh82051-tech/leetcode_question/tree/master/0875-koko-eating-bananas) |
 | [0922-sort-array-by-parity-ii](https://github.com/patelrishabh82051-tech/leetcode_question/tree/master/0922-sort-array-by-parity-ii) |
 | [1552-magnetic-force-between-two-balls](https://github.com/patelrishabh82051-tech/leetcode_question/tree/master/1552-magnetic-force-between-two-balls) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/patelrishabh82051-tech/leetcode_question/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/patelrishabh82051-tech/leetcode_question/tree/master/0326-power-of-three) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/patelrishabh82051-tech/leetcode_question/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
