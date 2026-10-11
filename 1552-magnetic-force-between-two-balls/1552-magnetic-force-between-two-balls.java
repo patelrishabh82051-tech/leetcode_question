@@ -6,7 +6,7 @@ class Solution {
         int hi=arr[n-1]-arr[0];
         int ans=0;
         while(lo<=hi){
-            int mid=(lo+hi)/2;
+            int mid = lo + (hi - lo) / 2;
             if(ispos(arr,m,mid)){
                 ans=mid;
                 lo=mid+1;
