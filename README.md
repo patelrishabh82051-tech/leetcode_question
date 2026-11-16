@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/patelrishabh82051-tech/leetcode_question/tree/master/0066-plus-one) |
 | [0292-nim-game](https://github.com/patelrishabh82051-tech/leetcode_question/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/patelrishabh82051-tech/leetcode_question/tree/master/0326-power-of-three) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/patelrishabh82051-tech/leetcode_question/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -142,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/patelrishabh82051-tech/leetcode_question/tree/master/0292-nim-game) |
+## Linked List
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/patelrishabh82051-tech/leetcode_question/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
